@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "vercel-build": "vercel build"
+    "start": "node api/index.js"
   },
   "keywords": [],
   "author": "",
